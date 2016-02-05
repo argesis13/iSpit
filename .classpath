@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry including="Brick.png|Bullet_H.png|Bullet_V.png|Tank1Down.png|Tank1Down1.png|Tank1Left.png|Tank1Left1.png|Tank1Right.png|Tank1Right1.png|Tank1Up.png|Tank1Up1.png|Tank2Down.png|Tank2Down1.png|Tank2Left.png|Tank2Left1.png|Tank2Right.png|Tank2Right1.png|Tank2Up.png|Tank2Up1.png" kind="src" path="Images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
